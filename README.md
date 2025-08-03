@@ -1,2 +1,23 @@
-# Canada_Tech_Internships_2026
-Tech Internships for Winter 2026, Summer 2026, &amp; Fall 2026
+# CanadaTechInternships-2026
+---
+
+## The List
+
+### Legend
+ - 🔒 - Closed
+
+| Company      | Role                                 | Location                                             | Term        | Application                                                                                                                                                             | Date Posted |
+|--------------|--------------------------------------|------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Sentry       | Software Engineer Intern             | Toronto, ON                                          | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.ashbyhq.com/sentry/d2e3391f-9401-410a-b8a6-de3bf5f762b7?utm_source=lukainternshiplist)                        | Aug 01      |
+| Amazon       | Applied Science Intern (PhD)         | Toronto, ON / Vancouver, BC / Pipe Meadows, BC / Burnaby, BC | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www.amazon.jobs/en/jobs/3050161/summer-2026-applied-science-internship-canada-phd-student-science-recruiting?utm_source=lukainternshiplist) | Aug 01      |
+| Simon Kucher | Elevate Intern (Data Analyst)        | Toronto, ON                                          | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/3651?utm_source=lukainternshiplist)                    | Jul 30      |
+| SAP          | Data Analyst                         | Vancouver, BC                                        | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Cloud-ERP-Solution-Adoption-Data-Analyst-Brit-V6B-1A9/1229635401?utm_source=lukainternshiplist) | Jul 30      |
+| TimeSaved    | Co-op Data Analyst                   | Toronto, ON (Remote)                                 | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www1.communitech.ca/companies/timesaved/jobs/54911234-co-op-data-analyst#content?utm_source=lukainternshiplist)  | Jul 29      |
+| Solink       | QA Intern                            | Ottawa, ON (Remote)                                  | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www1.communitech.ca/companies/solink/jobs/54493914-qa-intern#content?utm_source=lukainternshiplist)              | Jul 29      |
+| IBM          | Consulting Intern                    | Toronto, ON / Montreal, QC / Ottawa, ON              | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50167&source=SN_LinkedIn)                                     | Aug 01      |
+| Konrad       | Associate Consultant Intern          | Toronto, ON                                          | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www.konrad.com/careers/job/associate-consultant-intern-may-2026-4-months_6665436003)                             | Aug 03      |
+| Konrad       | UX/UI Design Intern                  | Toronto, ON                                          | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www.konrad.com/careers/job/ux-ui-design-intern-may-2026-4-months_6616778003)                                     | Aug 03      |
+| Konrad       | Software Developer Intern            | Toronto, ON                                          | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www.konrad.com/careers/job/software-developer-intern-may-2026-4-months_6642169003)                              | Aug 03      |
+| Kraft Heinz  | 2026 Canada Internship Program | Toronto, ON      | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careers.kraftheinz.com/job/22268628/?source=KHLinkedin)                                                            | Aug 01      |
+| PSP Investments | Intern, Natural Resources Investments, America | Montreal   | Winter 2026       | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://investpsp.wd3.myworkdayjobs.com/en-US/psp_careers/job/Montreal/Intern--Natural-Resources-Investments--America--January---April-2026-_R4491?source=Linkedin) | Aug 01      |
+| PSP Investments | Intern, Private Equity                         | Montreal   | Winter 2026       | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://investpsp.wd3.myworkdayjobs.com/en-US/psp_careers/job/Montreal/Intern--Private-Equity--January---April-2026-_R4215?source=Linkedin)                    | Jul 29      |
