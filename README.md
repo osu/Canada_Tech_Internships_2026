@@ -1,6 +1,6 @@
 # CanadaTechInternships-2026
 ---
- - Updated every day at 7pm PST
+ - Updated every day at 6pm PST
 
 ### Legend
  - 🔒 - Closed
