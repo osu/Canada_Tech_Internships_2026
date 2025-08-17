@@ -45,6 +45,7 @@
 | [SAP](https://jobs.sap.com) | iXp Intern – Technical Support Associate (SAP MDG) | Toronto, ON | Winter 2026 (Oct–May) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.sap.com/job/Toronto-SAP-iXp-Intern-Technical-Support-Associate%2C-SAP-MDG-ON-M5K-1B7/1236808301/) | Aug 14 |
 | [Capital One](https://www.capitalonecareers.ca) | Intern – Process Management | Toronto, ON | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www.capitalonecareers.ca/job/-/-/234/85064142656?p_sid=nBOOX_b&p_uid=NWljwUi412&source=rd_linkedin_job_posting_tm&ss=paid&utm_campaign=canada_25&utm_content=pj_board&utm_medium=jobad&utm_source=linkedin+slotted) | Aug 15 |
 | [Capital One](https://www.capitalonecareers.ca) | Intern – Strategy Analyst | Toronto, ON | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www.capitalonecareers.ca/job/-/-/234/84998969568?p_sid=HzziSNb&p_uid=HOHopakuya&source=rd_linkedin_job_posting_tm&ss=paid&utm_campaign=canada_25&utm_content=pj_board&utm_medium=jobad&utm_source=linkedin+slotted) | Aug 13 |
+| [Hitachi Rail](https://www.hitachirail.com/careers) | Systems Design Intern | Toronto, ON | Sept 2025 – Apr/Aug 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Systems-Design-Intern_R1010344) | Aug 15 |
 
 
 
