@@ -34,7 +34,11 @@
 | [Tesla](https://www.tesla.com) | Internship – Technical Program Management, Cell Engineering | Markham, ON | Spring 2026 (Jan – May, extendable into Summer) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careers.roche.com/global/en/job/248247?source=LinkedIn) | Aug 16 |
 | [Ciena](https://www.ciena.com) | Waveserver Platform Software Developer Co-op | Ottawa, ON | Fall 2025 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Waveserver-Platform-Software-Developer-Co-op--Fall-2025-_R028647?source=LinkedIn+Job+Advertisement) | Aug 13 |
 | [SAP](https://www.sap.com/canada) | iXp Intern – Data Visualization & Business Reporting | Vancouver, BC | Fall 2025 – Summer 2026 (12 months) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Data-Visualization-&-Business-Reporting-Brit-V6B-1A9/1236427101/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings) | Aug 14 |
+| [AIMCo](https://www.aimco.ca) | Student/Intern – Quantitative Analytics & Risk Reporting | Edmonton, AB / Calgary, AB | Winter 2026 (8 months) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student-Intern--Quantitative-Analytics---Risk-Reporting_JR100657?source=LinkedIn) | Aug 13 |
+| [AIMCo](https://www.aimco.ca) | Co-op – Fixed Income | Calgary, AB | Winter 2026 (4 months) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://aimco.wd10.myworkdayjobs.com/en-US/AIMCoCareers/details/Co-op--Fixed-Income_JR100659) | Aug 14 |
+| [Mackenzie Investments](https://www.mackenzieinvestments.com) | Cybersecurity Services Intern | Toronto, ON / Winnipeg, MB | Winter 2026 (Jan – Apr) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careersen-mackenzieinvestments.icims.com/jobs/5619/winter-%282026%29---cybersecurity-services-intern/login) | Aug 16 |
 
+| [ABB](https://careers.abb/global/en/job/ABB1GLOBALJR00007776EXTERNALENGLOBAL/Intern-IT-Programming-and-Projects?utm_source=linkedin&utm_medium=phenom-feeds) | Intern – IT Programming and Projects | Pointe-Claire, QC | Winter 2026 (Jan – Apr) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careers.abb/global/en/job/ABB1GLOBALJR00007776EXTERNALENGLOBAL/Intern-IT-Programming-and-Projects?utm_source=linkedin&utm_medium=phenom-feeds) | Aug 16 |
 
 
 
