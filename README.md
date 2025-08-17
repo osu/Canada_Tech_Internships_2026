@@ -32,6 +32,8 @@
 | [RBC](https://rbcroyalbank.com) | Data Specialist, Software Engineering, Quality Engineering, Business Analyst, Cyber – Intern | Toronto, ON | Winter 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) | Aug 16 |
 | [Accenture](https://www.accenture.com) | Project Management I – Business Process Analyst (Co-op) | Richmond Hill, ON | Winter 2026 (4–16 months) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www.accenture.com/ca-en/careers/jobdetails?id=1350_en&src=LINKEDINJP) | Aug 16 |
 | [Tesla](https://www.tesla.com) | Internship – Technical Program Management, Cell Engineering | Markham, ON | Spring 2026 (Jan – May, extendable into Summer) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careers.roche.com/global/en/job/248247?source=LinkedIn) | Aug 16 |
+| [Ciena](https://www.ciena.com) | Waveserver Platform Software Developer Co-op | Ottawa, ON | Fall 2025 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Waveserver-Platform-Software-Developer-Co-op--Fall-2025-_R028647?source=LinkedIn+Job+Advertisement) | Aug 13 |
+| [SAP](https://www.sap.com/canada) | iXp Intern – Data Visualization & Business Reporting | Vancouver, BC | Fall 2025 – Summer 2026 (12 months) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Data-Visualization-&-Business-Reporting-Brit-V6B-1A9/1236427101/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings) | Aug 14 |
 
 
 
