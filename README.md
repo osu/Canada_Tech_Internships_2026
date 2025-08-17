@@ -43,6 +43,8 @@
 | [KPMG](https://careers.kpmg.ca/jobs/29177?lang=en-us&iis=Job+Board&iisn=LinkedIn&Codes=LinkedIn) | Cybersecurity Services – Intern/Co-op | Ottawa, ON / Halifax, NS / Hamilton, ON | Winter 2026 (Jan – Apr) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careers.kpmg.ca/jobs/29177?lang=en-us&iis=Job+Board&iisn=LinkedIn&Codes=LinkedIn) | Aug 15 |
 | [Clio](https://clio.com/careers) | Software Developer, Co-op | Vancouver, Toronto, Calgary | Fall 2025 – Winter 2026 (Sept–Apr) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577?source=LinkedIn) | July 17 |
 | [SAP](https://jobs.sap.com) | iXp Intern – Technical Support Associate (SAP MDG) | Toronto, ON | Winter 2026 (Oct–May) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.sap.com/job/Toronto-SAP-iXp-Intern-Technical-Support-Associate%2C-SAP-MDG-ON-M5K-1B7/1236808301/) | Aug 14 |
+| [Capital One](https://www.capitalonecareers.ca) | Intern – Process Management | Toronto, ON | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www.capitalonecareers.ca/job/-/-/234/85064142656?p_sid=nBOOX_b&p_uid=NWljwUi412&source=rd_linkedin_job_posting_tm&ss=paid&utm_campaign=canada_25&utm_content=pj_board&utm_medium=jobad&utm_source=linkedin+slotted) | Aug 15 |
+
 
 
 
