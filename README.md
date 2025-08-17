@@ -41,6 +41,8 @@
 | [Mackenzie Investments](https://www.mackenzieinvestments.com) | Cybersecurity Services Intern | Toronto, ON / Winnipeg, MB | Winter 2026 (Jan – Apr) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careersen-mackenzieinvestments.icims.com/jobs/5619/winter-%282026%29---cybersecurity-services-intern/login) | Aug 16 |
 | [ABB](https://careers.abb/global/en/job/ABB1GLOBALJR00007776EXTERNALENGLOBAL/Intern-IT-Programming-and-Projects?utm_source=linkedin&utm_medium=phenom-feeds) | Intern – IT Programming and Projects | Pointe-Claire, QC | Winter 2026 (Jan – Apr) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careers.abb/global/en/job/ABB1GLOBALJR00007776EXTERNALENGLOBAL/Intern-IT-Programming-and-Projects?utm_source=linkedin&utm_medium=phenom-feeds) | Aug 16 |
 | [KPMG](https://careers.kpmg.ca/jobs/29177?lang=en-us&iis=Job+Board&iisn=LinkedIn&Codes=LinkedIn) | Cybersecurity Services – Intern/Co-op | Ottawa, ON / Halifax, NS / Hamilton, ON | Winter 2026 (Jan – Apr) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careers.kpmg.ca/jobs/29177?lang=en-us&iis=Job+Board&iisn=LinkedIn&Codes=LinkedIn) | Aug 15 |
+| [Clio](https://clio.com/careers) | Software Developer, Co-op | Vancouver, Toronto, Calgary | Fall 2025 – Winter 2026 (Sept–Apr) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577?source=LinkedIn) | July 17 |
+| [SAP](https://jobs.sap.com) | iXp Intern – Technical Support Associate (SAP MDG) | Toronto, ON | Winter 2026 (Oct–May) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.sap.com/job/Toronto-SAP-iXp-Intern-Technical-Support-Associate%2C-SAP-MDG-ON-M5K-1B7/1236808301/) | Aug 14 |
 
 
 
