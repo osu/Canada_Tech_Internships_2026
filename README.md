@@ -39,6 +39,7 @@
 | [Mackenzie Investments](https://www.mackenzieinvestments.com) | Cybersecurity Services Intern | Toronto, ON / Winnipeg, MB | Winter 2026 (Jan – Apr) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careersen-mackenzieinvestments.icims.com/jobs/5619/winter-%282026%29---cybersecurity-services-intern/login) | Aug 16 |
 
 | [ABB](https://careers.abb/global/en/job/ABB1GLOBALJR00007776EXTERNALENGLOBAL/Intern-IT-Programming-and-Projects?utm_source=linkedin&utm_medium=phenom-feeds) | Intern – IT Programming and Projects | Pointe-Claire, QC | Winter 2026 (Jan – Apr) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careers.abb/global/en/job/ABB1GLOBALJR00007776EXTERNALENGLOBAL/Intern-IT-Programming-and-Projects?utm_source=linkedin&utm_medium=phenom-feeds) | Aug 16 |
+| [KPMG](https://careers.kpmg.ca/jobs/29177?lang=en-us&iis=Job+Board&iisn=LinkedIn&Codes=LinkedIn) | Cybersecurity Services – Intern/Co-op | Ottawa, ON / Halifax, NS / Hamilton, ON | Winter 2026 (Jan – Apr) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careers.kpmg.ca/jobs/29177?lang=en-us&iis=Job+Board&iisn=LinkedIn&Codes=LinkedIn) | Sept 11 |
 
 
 
