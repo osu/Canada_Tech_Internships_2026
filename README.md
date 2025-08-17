@@ -31,6 +31,7 @@
 | [EQ Bank](https://www.eqbank.ca) | Software Engineer I (Full-Stack) – 12 Month Winter Co-op | Toronto, ON | Winter 2026 (Jan 2026 – Jan 2027) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.lever.co/eqbank/a3bdaa20-8106-48fa-8940-a93ee7c7e7c5) | Aug 16 |
 | [RBC](https://rbcroyalbank.com) | Data Specialist, Software Engineering, Quality Engineering, Business Analyst, Cyber – Intern | Toronto, ON | Winter 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) | Aug 16 |
 | [Accenture](https://www.accenture.com) | Project Management I – Business Process Analyst (Co-op) | Richmond Hill, ON | Winter 2026 (4–16 months) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www.accenture.com/ca-en/careers/jobdetails?id=1350_en&src=LINKEDINJP) | Aug 16 |
+| [Tesla](https://www.tesla.com) | Internship – Technical Program Management, Cell Engineering | Markham, ON | Spring 2026 (Jan – May, extendable into Summer) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://careers.roche.com/global/en/job/248247?source=LinkedIn) | Aug 16 |
 
 
 
