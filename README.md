@@ -47,6 +47,7 @@
 | [Capital One](https://www.capitalonecareers.ca) | Intern – Strategy Analyst | Toronto, ON | Summer 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://www.capitalonecareers.ca/job/-/-/234/84998969568?p_sid=HzziSNb&p_uid=HOHopakuya&source=rd_linkedin_job_posting_tm&ss=paid&utm_campaign=canada_25&utm_content=pj_board&utm_medium=jobad&utm_source=linkedin+slotted) | Aug 13 |
 | [Hitachi Rail](https://www.hitachirail.com/careers) | Systems Design Intern | Toronto, ON | Sept 2025 – Apr/Aug 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Systems-Design-Intern_R1010344) | Aug 15 |
 | [Jonas Software](https://www.jonassoftware.com/careers) | Product Intern | Remote (ON, Canada) | Winter 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Product-Intern_R46468-1) | Aug 16 |
+| [SAP](https://www.sap.com/canada) | iXp Intern – Agile Developer, Business Data Cloud | Vancouver, BC | Winter 2026 (Jan – Aug, 8 months) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-Business-Data-Cloud-Brit-V6B-1A9/1237194001/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings) | Aug 17 |
 
 
 
