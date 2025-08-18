@@ -48,7 +48,7 @@
 | [Hitachi Rail](https://www.hitachirail.com/careers) | Systems Design Intern | Toronto, ON | Sept 2025 – Apr/Aug 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Systems-Design-Intern_R1010344) | Aug 15 |
 | [Jonas Software](https://www.jonassoftware.com/careers) | Product Intern | Remote (ON, Canada) | Winter 2026 | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Product-Intern_R46468-1) | Aug 16 |
 | [SAP](https://www.sap.com/canada) | iXp Intern – Agile Developer, Business Data Cloud | Vancouver, BC | Winter 2026 (Jan – Aug, 8 months) | [![Apply](https://i.imgur.com/u1KNU8z.png)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Developer%2C-Business-Data-Cloud-Brit-V6B-1A9/1237194001/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings) | Aug 17 |
-| [Longbow Capital](https://www.longbowcapital.com) | Fall Intern – Investment Team | Calgary, AB | Fall 2025 (Sept – Dec) | [![Apply](https://i.imgur.com/u1KNU8z.png)](mailto:kshir@longbowcapital.com?subject=Longbow%20Capital%20Inc.%20–%20Fall%20Intern%20Application) | Aug 16 |
+| [Longbow Capital](https://www.longbowcapital.com) | Fall Intern – Investment Team | Calgary, AB | Fall 2025 (Sept – Dec) | [![Apply via email click here](https://i.imgur.com/u1KNU8z.png)](mailto:kshir@longbowcapital.com?subject=Longbow%20Capital%20Inc.%20–%20Fall%20Intern%20Application) | Aug 16 |
 
 
 
